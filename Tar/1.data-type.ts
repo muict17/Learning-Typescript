@@ -10,10 +10,3 @@ d = new Set();
 const array: Map<string, number> = new Map();
 array.set("first", 1);
 array.set("second", 2);
-
-console.log(array);
-if (a) {
-  console.log("s");
-} else {
-  console.log("ww");
-}
