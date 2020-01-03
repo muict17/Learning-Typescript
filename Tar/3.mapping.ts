@@ -1,4 +1,4 @@
-const dataTwo: number[] = [1, 2, 3, 4];
+// const dataTwo: number[] = [1, 2, 3, 4];
 const newData: number[] = [];
 // traditional
 // for (let i = 0; i < dataTwo.length; i++) {
